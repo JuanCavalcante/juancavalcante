@@ -1,16 +1,35 @@
-## Hi there 👋
+Juan Cavalcante - Full Stack Developer
 
-<!--
-**JuanCavalcante/juancavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em início de carreira formado em Análise e Desenvolvimento de Sistemas.
+Apaixonado por tecnologia, construção de soluções e aprendizado contínuo.
 
-Here are some ideas to get you started:
+Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend
+React
+TypeScript
+Tailwind
+
+Backend
+Node.js
+Express
+
+Ferramentas
+Git
+Linux
+
+Projetos em destaque
+
+Task Manager SaaS
+Sistema de gerenciamento de tarefas estilo Kanban.
+
+E-commerce Platform
+Plataforma completa de loja virtual.
+
+Auth System
+Sistema completo de autenticação com JWT.
+
+Contato
+
+LinkedIn https://www.linkedin.com/in/juan-cavalcante-945baa21b/
+Email juancavalcante20633@gmail.com
