@@ -1,11 +1,12 @@
 # Juan Cavalcante
 
-Desenvolvedor Full Stack com foco em construir produtos web e jogos 2D com arquitetura clara, boa experiencia de uso e evolucao continua.
+Desenvolvedor Full Stack e Engenheiro de Prompt com foco em construir produtos web e jogos 2D com arquitetura clara, boa experiencia de uso e evolucao continua.
 
 ## Sobre
 
 - Formacao em Analise e Desenvolvimento de Sistemas.
 - Experiencia pratica com desenvolvimento frontend, backend e fluxos de produto.
+- Atuacao em engenharia de prompt para automacoes, produtividade e qualidade de entrega com IA.
 - Interesse em engenharia de software, gameplay systems e clean code.
 
 ## Stack principal
